@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @hvthangbk
+- 👋 Hi, I’m Ho
 - 👀 I’m interested in coding and material science
 - 🌱 I’m currently learning coding and machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-hvthangbk/hvthangbk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
